@@ -1,0 +1,45 @@
+Que te atrajo de este puesto?
+
+Por que estas buscando un nuevo trabajo?
+
+Para ti que es ser un desarrollador full-stack?
+
+Para ti que es ser un founder engineer?
+
+
+Que es lo que mas te gusta de ser desarrollador?
+Que es lo que menos te gusta de ser desarrollador?
+
+Cómo ves el panorama del desarrollo de software en 10 años?
+Cómo te ves tu en 10 años?
+
+Que herramienta/tecnologia estas aprendiendo actualmente?
+
+Qué libros han impactado en tu vida?
+
+Cómo lograste conseguir los puestos que has tenido? 
+
+Que logros/productos has tenido en tu carrera?
+
+Por qué cambias de trabajo constantemente?
+
+Preguntas tecnicas (REACT)
+- Que es REST?
+- Por que nodeJS es single-thread & non-blocking I/O
+- Cual es la arquitectura de las aplicaciones hibridas (cordova/electron)
+- React - que es el virtual DOM?
+- React - Que es el modelo FLUX y que ventajas y desventajas tiene contra MVC?
+- angularJS - como funciona la inyeccion de dependencia?
+
+Soft Skills
+- Digamos que necesito que aprendas Zig, qué pasos harias para entender la herramienta?
+- Si tuvieras que empezar desde 0, qué conocimientos aprenderias y en qué orden?
+- Cual es el factor que aumenta (y el que empeora) el rendimiento de un desarrollador?
+- Cómo manejarias una situación donde estas fuera de horario y el sistema en producción falla en una empresa, la persona de soporte no lo sabe resolver y tu eres el unico que conoce ese cambio nuevo?
+- Cómo resuelves el caso donde un cliente constantemente te pide cambios al sistema, te dice que está todo bien y te sigue pidiendo modificaciones?
+- Qué haces si haces la modificación y ahora el cliente te da un cambio que cambia la dirección del proyecto?
+
+Destrezas tecnicas:
+person tree
+sqlite
+ux/ui
