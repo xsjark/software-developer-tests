@@ -11,7 +11,7 @@ Cuando termines sube tu codigo a un repositorio de github y configura Github Pag
 
 Finalmente, envíanos un correo con la siguiente información:
 ```
-**Para:** Diego Paguay<gerencia@runfoodapp.com>
-**Titulo:** Prueba resuelta `{{tema/nombre_de_la_prueba}}`
-**Cuerpo:** Hola! Soy `{{tu_nombre}}`, estoy aplicando para `{{nombre_puesto}}`. Aquí la solución `{{url_github_pages}}`. Los resultados se muestran en `{{ "consola" | "interfaz grafica" }}`
+Para: Diego Paguay<gerencia@runfoodapp.com>
+Titulo: Prueba resuelta {{tema/nombre_de_la_prueba}}
+Cuerpo: Hola! Soy {{tu_nombre}}, estoy aplicando para {{nombre_puesto}}. Aquí la solución {{url_github_pages}}. Los resultados se muestran en {{ consola | interfaz grafica }}
 ```
